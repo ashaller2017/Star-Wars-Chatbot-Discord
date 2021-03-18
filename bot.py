@@ -173,4 +173,4 @@ async def on_message(message):
         await message.channel.send(output)
 
 
-client.run('ODIwNDE3MzE1NDcxNDkxMTQz.YE03Kg._DBfRiHiRWxclILNqDGbFV9n7Ds')
+client.run('your token here')
